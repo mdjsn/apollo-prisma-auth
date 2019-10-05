@@ -47,12 +47,12 @@ $ yarn start
 
 ## References
 
-- <a href="https://github.com/sumanchalki/mongo-apollo-server" target="_blank">Mongo Apollo Server</a>
+- <a href="https://www.prisma.io/docs/get-started/01-setting-up-prisma-new-database-JAVASCRIPT-a002/" target="_blank">Prisma Docs</a>
 - <a href="https://github.com/mdjsn/references" target="_blank">MDJSN references</a>
-- <a href="https://github.com/Silksofthesoul/graphql-jwt-express-apollo-mongodb-example" target="_blank">ME(A)RN Example</a>
-- <a href="https://learn.hasura.io/" target="_blank">Hasura IO</a>
-- <a href="https://fluent-conf-apollo.surge.sh/#/" target="_blank">A Frontend Developer's Guide</a>
-- <a href="https://github.com/peggyrayzis/guide-to-graphql" target="_blank">Guide to GraphQL</a>
+- <a href="https://www.apollographql.com/docs/apollo-server/getting-started/" target="_blank">Apollo Docs</a>
+- <a href="https://github.com/general-wedge/auth-graphql-boilerplate" target="_blank">Auth GraphQL Boilerplate</a>
+- <a href="https://www.apollographql.com/docs/apollo-server/deployment/netlify/" target="_blank">Deploying with Netlify Functions</a>
+- <a href="https://www.youtube.com/watch?v=OloBAdNCnyQ&t=5s" target="_blank">Code first GraphQL Server Development with Prisma</a>
   
 ## Licensing
 
