@@ -18,7 +18,7 @@
     "apollo-server-lambda": "^2.9.4",
     "bcryptjs": "^2.4.3",
     "encoding": "^0.1.12",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "netlify-lambda": "^1.6.3",
     "prisma-client-lib": "^1.34.8"
